@@ -1,0 +1,24 @@
+- Criei conta no site da Oracle
+- Fiz a conta no Oracle Cloud
+- Acesso ao lab: https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=631
+-- clicar em Start > Run on LiveLabs Sandbox
+- Criando o APEX Service
+-- Display name: WorkshopCloudGirls
+-- Database name: WorkshopCloudGirls
+-- Always free
+-- Database version: 19c
+-- OCPU count: 1
+-- Storage(tb): 0.02
+-- Username: ADMIN
+-- Password: *****
+-- Secure access from everywhere
+> Create APEX service
+Esperar provisionar
+Clicar em Lauch APEX e inserir usuário e senha
+Criar Workspace
+-- Workspace Name: WorkshopCloudGirls
+-- Workspace Username: ADMIN
+-- Workspace Password: ****
+
+App Builder : Create a New App > From a file > fazer upload da planilha
+
